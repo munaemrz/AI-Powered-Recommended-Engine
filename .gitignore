@@ -1,0 +1,7 @@
+# Ignore the virtual environment folder
+/engine/venv/
+/engine/.idea/
+/engine/data/
+
+.DS_Store
+.idea/
