@@ -37,6 +37,6 @@ and add in data folder under engine
 
 
 **Additional Notes**
-# Ensure that your firewall or security settings allow traffic on port 5001.
-# If you encounter any issues, ensure that the virtual environment is activated and that all required packages are installed.
-# Adjust the configuration files as necessary to fit your specific use case and environment.
+Ensure that your firewall or security settings allow traffic on port 5001.
+If you encounter any issues, ensure that the virtual environment is activated and that all required packages are installed.
+Adjust the configuration files as necessary to fit your specific use case and environment.
